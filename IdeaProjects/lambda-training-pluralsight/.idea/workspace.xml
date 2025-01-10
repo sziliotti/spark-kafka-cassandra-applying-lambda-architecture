@@ -1,17 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f7f1a748-7c33-4b35-8bc1-f2d1c36c8e0b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module-4/module-4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/module-5/module-5.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/module-6/module-6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vagrant/.vagrant/machines/default/virtualbox/action_provision" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vagrant/.vagrant/machines/default/virtualbox/action_set_name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vagrant/.vagrant/machines/default/virtualbox/creator_uid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vagrant/.vagrant/machines/default/virtualbox/id" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vagrant/.vagrant/machines/default/virtualbox/index_uuid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vagrant/.vagrant/machines/default/virtualbox/synced_folders" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vagrant/.vagrant/machines/default/virtualbox/vagrant_cwd" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="lambda-training-pluralsight" />
@@ -31,12 +40,8 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
@@ -47,7 +52,6 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -94,6 +98,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
